@@ -1,0 +1,20 @@
+{
+    "name": "juanwong/jc",
+    "description": "Jc framework project",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "./app"
+        }
+    },
+    "authors": [
+        {
+            "name": "JuanWong",
+            "email": "juanwong0211@gmail.com"
+        }
+    ],
+    "require": {
+        "juanwong/jc-framework": "^0.1.0"
+    }
+}
