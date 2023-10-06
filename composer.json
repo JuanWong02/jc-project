@@ -16,5 +16,8 @@
     ],
     "require": {
         "juanwong/jc-framework": "^0.1.0"
+    },
+    "scripts": {
+        "run-framework": "php jc.php 0"
     }
 }
